@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Adityairl/learning-journey-2026/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityairl/learning-journey-2026/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |

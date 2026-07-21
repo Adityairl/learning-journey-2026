@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0001-two-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/Adityairl/learning-journey-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityairl/learning-journey-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,9 +69,14 @@
 | [0344-reverse-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityairl/learning-journey-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityairl/learning-journey-2026/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0680-valid-palindrome-ii) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->

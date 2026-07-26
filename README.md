@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -62,6 +63,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Adityairl/learning-journey-2026/tree/master/1052-grumpy-bookstore-owner) |
@@ -78,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/Adityairl/learning-journey-2026/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityairl/learning-journey-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |

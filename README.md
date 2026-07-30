@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/Adityairl/learning-journey-2026/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Adityairl/learning-journey-2026/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1052-grumpy-bookstore-owner](https://github.com/Adityairl/learning-journey-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityairl/learning-journey-2026/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityairl/learning-journey-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0567-permutation-in-string) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Adityairl/learning-journey-2026/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -106,5 +108,6 @@
 ## Counting
 |  |
 | ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Adityairl/learning-journey-2026/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->

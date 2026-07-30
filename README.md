@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityairl/learning-journey-2026/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityairl/learning-journey-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
@@ -28,6 +29,7 @@
 | [0076-minimum-window-substring](https://github.com/Adityairl/learning-journey-2026/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityairl/learning-journey-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityairl/learning-journey-2026/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityairl/learning-journey-2026/tree/master/1480-running-sum-of-1d-array) |

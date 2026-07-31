@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityairl/learning-journey-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityairl/learning-journey-2026/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Adityairl/learning-journey-2026/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
@@ -62,6 +64,7 @@
 | [0016-3sum-closest](https://github.com/Adityairl/learning-journey-2026/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |

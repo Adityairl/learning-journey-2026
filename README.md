@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityairl/learning-journey-2026/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Adityairl/learning-journey-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityairl/learning-journey-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Adityairl/learning-journey-2026/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Adityairl/learning-journey-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Adityairl/learning-journey-2026/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

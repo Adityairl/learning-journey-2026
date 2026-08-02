@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Adityairl/learning-journey-2026/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
@@ -34,6 +35,7 @@
 | [0076-minimum-window-substring](https://github.com/Adityairl/learning-journey-2026/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityairl/learning-journey-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
@@ -121,9 +123,18 @@
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adityairl/learning-journey-2026/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

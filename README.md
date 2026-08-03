@@ -29,6 +29,7 @@
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Adityairl/learning-journey-2026/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1052-grumpy-bookstore-owner](https://github.com/Adityairl/learning-journey-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityairl/learning-journey-2026/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Adityairl/learning-journey-2026/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0724-find-pivot-index](https://github.com/Adityairl/learning-journey-2026/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityairl/learning-journey-2026/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Adityairl/learning-journey-2026/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |

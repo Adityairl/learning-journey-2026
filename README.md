@@ -77,6 +77,7 @@
 | [0035-search-insert-position](https://github.com/Adityairl/learning-journey-2026/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityairl/learning-journey-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Adityairl/learning-journey-2026/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Adityairl/learning-journey-2026/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

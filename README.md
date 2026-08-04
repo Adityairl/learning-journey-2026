@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityairl/learning-journey-2026/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityairl/learning-journey-2026/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityairl/learning-journey-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityairl/learning-journey-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adityairl/learning-journey-2026/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityairl/learning-journey-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Adityairl/learning-journey-2026/tree/master/0278-first-bad-version) |

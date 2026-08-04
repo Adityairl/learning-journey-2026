@@ -32,6 +32,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Adityairl/learning-journey-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityairl/learning-journey-2026/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adityairl/learning-journey-2026/tree/master/1732-find-the-highest-altitude) |
+| [3731-find-missing-elements](https://github.com/Adityairl/learning-journey-2026/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0567-permutation-in-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0567-permutation-in-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Adityairl/learning-journey-2026/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityairl/learning-journey-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3731-find-missing-elements](https://github.com/Adityairl/learning-journey-2026/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Adityairl/learning-journey-2026/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |

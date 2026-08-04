@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityairl/learning-journey-2026/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adityairl/learning-journey-2026/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adityairl/learning-journey-2026/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityairl/learning-journey-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |

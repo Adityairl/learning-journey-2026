@@ -12,11 +12,6 @@ public:
             }
             mx = max(mx,i-l+1);
         }
-        if(mx==0){
-            return s.length();
-        }
-        else{
-            return mx;
-        }
+        return mx;
     }
 };

@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Adityairl/learning-journey-2026/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityairl/learning-journey-2026/tree/master/0560-subarray-sum-equals-k) |
@@ -160,4 +161,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Adityairl/learning-journey-2026/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

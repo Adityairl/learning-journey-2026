@@ -29,6 +29,7 @@
 | [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityairl/learning-journey-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adityairl/learning-journey-2026/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Adityairl/learning-journey-2026/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -165,8 +166,10 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

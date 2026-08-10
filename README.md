@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Adityairl/learning-journey-2026/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
@@ -48,6 +49,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityairl/learning-journey-2026/tree/master/0560-subarray-sum-equals-k) |
@@ -165,11 +167,13 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

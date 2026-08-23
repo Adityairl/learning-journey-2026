@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Adityairl/learning-journey-2026/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityairl/learning-journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Adityairl/learning-journey-2026/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityairl/learning-journey-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityairl/learning-journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Adityairl/learning-journey-2026/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityairl/learning-journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Adityairl/learning-journey-2026/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
@@ -183,4 +186,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityairl/learning-journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Adityairl/learning-journey-2026/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Adityairl/learning-journey-2026/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

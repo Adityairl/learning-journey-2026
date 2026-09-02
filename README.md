@@ -36,6 +36,7 @@
 | [0724-find-pivot-index](https://github.com/Adityairl/learning-journey-2026/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Adityairl/learning-journey-2026/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adityairl/learning-journey-2026/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Adityairl/learning-journey-2026/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -103,6 +104,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Adityairl/learning-journey-2026/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adityairl/learning-journey-2026/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityairl/learning-journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adityairl/learning-journey-2026/tree/master/0085-maximal-rectangle) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

@@ -27,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adityairl/learning-journey-2026/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adityairl/learning-journey-2026/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityairl/learning-journey-2026/tree/master/0503-next-greater-element-ii) |
@@ -55,6 +56,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Adityairl/learning-journey-2026/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityairl/learning-journey-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityairl/learning-journey-2026/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adityairl/learning-journey-2026/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0525-contiguous-array) |
@@ -89,6 +91,7 @@
 | [0018-4sum](https://github.com/Adityairl/learning-journey-2026/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Adityairl/learning-journey-2026/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Adityairl/learning-journey-2026/tree/master/3731-find-missing-elements) |
 ## Binary Search

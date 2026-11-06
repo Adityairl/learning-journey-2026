@@ -214,4 +214,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityairl/learning-journey-2026/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Adityairl/learning-journey-2026/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Adityairl/learning-journey-2026/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
